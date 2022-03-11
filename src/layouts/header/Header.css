@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+  background: grey;
+  padding: 20px;
+}
+
+.contacts {
+  margin: auto;
+}
+
+.auth {
+  margin-right: 25px;
+}
