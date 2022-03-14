@@ -1,0 +1,9 @@
+.button {
+  position: absolute;
+  margin-top: 15px;
+  width: 235px;
+}
+
+.form {
+  position: relative;
+}
